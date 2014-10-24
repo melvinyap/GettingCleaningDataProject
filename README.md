@@ -1,4 +1,4 @@
-Created By: Melvin Yap ([melvin_yap@mha.gov.sg](mailto:melvin_yap@mha.gov.sg))
+Created By: Melvin Yap
 
 ---
 # Readme
