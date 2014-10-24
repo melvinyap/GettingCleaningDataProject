@@ -26,12 +26,12 @@ Data File | Purpose
 :--- | :--- 
 activity_labels.txt | Code table used to replace the activity code with its descriptive activity name. 
 features.txt | Used to identify features that contains mean and standard deviation. Their respective column indexes are used to filter the data frame columns as per the project requirements. 
-subject_test.txt | Contains volunteer subject IDs that are used to merge with the test data. 
+subject_test.txt | Contains volunteer subject IDs that are used to merge with the testing data. 
 subject_train.txt | Contains volunteer subject IDs that are used to merge with the training data. 
 X_test.txt | Testing data of feature signal measurements in the *test* folder used for analysis. 
 X_train.txt | Training data of feature signal measurements in the *train* folder used for analysis. 
-y_test.txt | Testing activity codes in the *test* folder that is used to merge with the test data. 
-y_train.txt | Training activity codes in the *train* folder that is used to merge with the test data. 
+y_test.txt | Testing activity codes in the *test* folder that is used to merge with the testing data. 
+y_train.txt | Training activity codes in the *train* folder that is used to merge with the training data. 
 
 ## Explanation of *run_analysis.R*
 
